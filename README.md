@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark6712-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mark6712-dev" /> </p>
 
-- 🔭 I’m currently working on [My Website](https://mark6712.com)
+- 🔭 I’m currently working on N/A
 
 - 🌱 I’m currently learning **Front-End**
 
-- 📫 How to reach me **mark.pop@mark6712.com**
+- 📫 How to reach me **markpop666@gmail.com**
 
 - ⚡ Fun fact **I play the pipe organ!**
 
